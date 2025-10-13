@@ -6,11 +6,10 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,postgres,oracle,git,vscode,docker" />
-  </a>
-</p>
+<div>
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,postgres,git,vscode,docker" />
+  <img align="center" alt="Ronaldo-Oracle" height="42" width="52" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+</div>
 
 ### 📫 Como me encontrar:
 
