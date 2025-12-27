@@ -1,13 +1,22 @@
+# 🚀 Ronaldo | Dev
 
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Ron4ld0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ron4ld0&layout=compact&langs_count=7&theme=dracula)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ron4ld0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ron4ld0&layout=compact&langs_count=7&theme=dracula" />
+</p>
 
 ### 🛠️ Tecnologias e Ferramentas
 
-[![Skills](https://skillicons.dev/icons?i=py,js,html,css,postgres,git,vscode,docker,notion)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,postgres,git,vscode,docker,notion" />
+  </a>
+</p>
 
 ### 📫 Como me encontrar:
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/ronaldodmelo)
+<p align="left">
+  <a href="https://linkedin.com/in/ronaldodmelo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
