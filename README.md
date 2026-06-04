@@ -1,6 +1,4 @@
-# 🚀 Ronaldo Melo
-
-### 🛠️ Tecnologias
+## 🛠️ Tecnologias
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -8,10 +6,13 @@
   </a>
 </p>
 
----
+## 📊 Estatísticas
 
-### 📫 Como me encontrar:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ron4ld0&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ron4ld0&layout=compact&theme=dark&hide_border=true" height="150" />
+</p>
 
-<a href="https://linkedin.com/in/ronaldodmelo" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ronaldodmelo&theme=dark&hide_border=true" height="150" />
+</p>
