@@ -9,10 +9,10 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ron4ld0&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ron4ld0&layout=compact&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ron41d0&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ron41d0&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ron4ld0&theme=dark&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Ron41d0&theme=dark&hide_border=true" height="150" />
 </p>
