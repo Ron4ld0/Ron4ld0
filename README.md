@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Ronaldo Melo
+# 👋 Oi, eu sou o Ronaldo.
 
 🎯 Analista de Sistemas e Desenvolvedor | Integrações & Automações
 
