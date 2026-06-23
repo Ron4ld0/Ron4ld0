@@ -15,3 +15,10 @@
   </a>
 </p>
 
+### 📊 Linguagens
+
+<p align="left">
+  <a href="https://github.com/Ron4ld0">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ron4ld0&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas do Ron4ld0" />
+  </a>
+</p>
