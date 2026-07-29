@@ -29,12 +29,12 @@ Atuo como **Analista de Sistemas e Desenvolvedor Full Cycle**, com um perfil hí
 
   <p><strong>Bancos de Dados</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,oracle,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,mysql&theme=dark" />
   </a>
 
   <p><strong>DevOps, Cloud & Automação</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,azure,vercel,cloudflare,git,n8n&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,azure,vercel,cloudflare,git&theme=dark" />
   </a>
 
   <p><strong>Front-end & Ferramentas</strong></p>
