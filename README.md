@@ -2,7 +2,7 @@
   <img height="150" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Olá!%20Eu%20sou%20o%20Ronaldo%20👋&fontSize=30&fontAlignY=35&animation=twinkling" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=850&lines=Analista+de+Sistemas+%7C+Desenvolvedor+Full+Stack;Arquitetura,+Integra%C3%A7%C3%B5es+e+Microservi%C3%A7os;Do+Levantamento+de+Requisitos+ao+Deploy;Python,+APIs,+Bancos+de+Dados+e+Nuvem" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=850&lines=Analista+de+Sistemas+%7C+Desenvolvedor+Python+%26+IA;FastAPI,+LangChain,+LLMs+e+Arquitetura;Integra%C3%A7%C3%B5es+Corporativas+e+APIs;Do+Levantamento+de+Requisitos+ao+Deploy" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,21 +10,20 @@
 
 ### 👨‍💻 Sobre mim
 
-Atuo como **Analista de Sistemas e Desenvolvedor Full Cycle**, com um perfil híbrido que une a visão estratégica de produto à execução técnica avançada. Tenho facilidade em transitar entre a especificação de arquitetura, o desenvolvimento hands-on e a gestão de backlog, atuando como a ponte entre as necessidades do negócio e a solução tecnológica.
+Atuo como **Analista de Sistemas e Desenvolvedor Python** com foco em Inteligência Artificial Aplicada e Engenharia de Software. Uno a robustez do desenvolvimento backend tradicional e de arquiteturas corporativas à inovação de soluções inteligentes, atuando de ponta a ponta na concepção, arquitetura, desenvolvimento e sustentação de produtos.
 
-- 🏗️ **Arquitetura & Integrações:** Especialista na integração de ecossistemas complexos, atuando com ERPs de mercado (como Microsoft Dynamics, TOTVS Winthor, Protheus e Sankhya) e desenvolvimento de APIs REST, GraphQL e Webhooks.
-- ⚙️ **Desenvolvimento Full Cycle:** Experiência no desenvolvimento de ponta a ponta, desde o mapeamento em sistemas BPM até a arquitetura e deploy utilizando Docker, Azure DevOps e Vercel.
-- 🤖 **IA & Automação:** Forte vivência na criação de fluxos de automação de processos (RPA) utilizando ferramentas como n8n e Python, além de integração com LLMs via LangChain e Gemini API.
-- 🏆 **Projetos Premiados & Empreendedorismo:** Desenvolvedor do backend do **VoiceMatch AI** (1º lugar no Hackathon Match Tech) utilizando Python e FastAPI. Também sou co-fundador da **ROGAB Solutions**, atuando em projetos inovadores como o CRM com IA Nexios Imob.
+- 🐍 **Backend & Arquitetura:** Desenvolvimento de APIs robustas utilizando **FastAPI** e **Django**, modelagem avançada de bancos de dados (**SQL Server, Oracle PL/SQL, PostgreSQL, Supabase**) e engenharia reversa de integrações críticas (REST, SOAP, Webhooks) com ERPs corporativos como TOTVS e Sankhya.
+- 🤖 **IA & Automação:** Projeto e implemento agentes inteligentes, pipelines **RAG**, fluxos avançados com **LangChain**, orquestração de workflows complexos via **n8n** e automações corporativas orientadas a dados.
+- 🏆 **Projetos Premiados & Empreendedorismo:** Desenvolvedor do backend do **VoiceMatch AI** (1º lugar no Hackathon Match Tech) utilizando Python e FastAPI. Co-fundador da **ROGAB Solutions**, desenvolvendo soluções inovadoras como CRMs com IA embutida.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <p><strong>Back-end & APIs</strong></p>
+  <p><strong>Back-end & Python / IA</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,graphql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,django,ts,nodejs,graphql&theme=dark" />
   </a>
 
   <p><strong>Bancos de Dados</strong></p>
