@@ -48,7 +48,6 @@ Atuo como **Analista de Sistemas e Desenvolvedor Python** com foco em Inteligên
 
 <div align="center">
   <img src="https://github-readme-stats-green-phi.vercel.app/api?username=Ron4ld0&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117" height="150" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ron4ld0&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="Streak Stats"/>
   <img src="https://github-readme-stats-green-phi.vercel.app/api/top-langs/?username=Ron4ld0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Linguagens mais usadas"/>
 </div>
 
