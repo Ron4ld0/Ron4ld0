@@ -2,7 +2,7 @@
   <img height="150" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Olá!%20Eu%20sou%20o%20Ronaldo%20👋&fontSize=30&fontAlignY=35&animation=twinkling" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=850&lines=Analista+de+Sistemas+%7C+Desenvolvedor+Python+%26+IA;FastAPI,+LangChain,+LLMs+e+Arquitetura;Integra%C3%A7%C3%B5es+Corporativas+e+APIs;Do+Levantamento+de+Requisitos+ao+Deploy" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=850&lines=Analista+de+Sistemas+%7C+Desenvolvedor+Full+Stack+%26+IA;FastAPI,+LangChain,+LLMs+e+Arquitetura;Integra%C3%A7%C3%B5es+Corporativas+e+APIs;Do+Levantamento+de+Requisitos+ao+Deploy" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,7 +10,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Atuo como **Analista de Sistemas e Desenvolvedor Python** com foco em Inteligência Artificial Aplicada e Engenharia de Software. Uno a robustez do desenvolvimento backend tradicional e de arquiteturas corporativas à inovação de soluções inteligentes, atuando de ponta a ponta na concepção, arquitetura, desenvolvimento e sustentação de produtos.
+Atuo como **Analista de Sistemas e Desenvolvedor Full Stack** com foco em Inteligência Artificial Aplicada e Engenharia de Software. Uno a robustez do desenvolvimento backend tradicional e de arquiteturas corporativas à inovação de soluções inteligentes, atuando de ponta a ponta na concepção, arquitetura, desenvolvimento e sustentação de produtos.
 
 - 🐍 **Backend & Arquitetura:** Desenvolvimento de APIs robustas utilizando **FastAPI** e **Django**, modelagem avançada de bancos de dados (**SQL Server, Oracle PL/SQL, PostgreSQL, Supabase**) e engenharia reversa de integrações críticas (REST, SOAP, Webhooks) com ERPs corporativos como TOTVS e Sankhya.
 - 🤖 **IA & Automação:** Projeto e implemento agentes inteligentes, pipelines **RAG**, fluxos avançados com **LangChain**, orquestração de workflows complexos via **n8n** e automações corporativas orientadas a dados.
