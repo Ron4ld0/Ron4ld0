@@ -14,7 +14,7 @@ Atuo como **Analista de Sistemas e Desenvolvedor Full Stack** com foco em Inteli
 
 - 🐍 **Backend & Arquitetura:** Desenvolvimento de APIs robustas utilizando **FastAPI** e **Django**, modelagem avançada de bancos de dados (**SQL Server, Oracle PL/SQL, PostgreSQL, Supabase**) e engenharia reversa de integrações críticas (REST, SOAP, Webhooks) com ERPs corporativos como TOTVS e Sankhya.
 - 🤖 **IA & Automação:** Projeto e implemento agentes inteligentes, pipelines **RAG**, fluxos avançados com **LangChain**, orquestração de workflows complexos via **n8n** e automações corporativas orientadas a dados.
-- 🏆 **Projetos Premiados: ** Desenvolvedor do backend do **VoiceMatch AI** (1º lugar no Hackathon Match Tech) utilizando Python e FastAPI e agentes de IA.
+- 🏆 **Projetos Premiados:** Desenvolvedor do backend do **VoiceMatch AI** (1º lugar no Hackathon Match Tech) utilizando Python e FastAPI e agentes de IA.
 
 ---
 
